@@ -13,6 +13,9 @@ Essas duas ferramentas foram instaladas usando o [Chocolatey](https://community.
 Portanto, após a solicitação da DEPAT, me debrucei sobre essa biblioteca e criamos um gráfico com a evolução do crescimento populacional da RIDE e DF ao longo dos anos,
 isto é, desde 1960 até 2022. 
 
+![RIDE e Distrito Federal](https://github.com/rvidals/bar_chart_race_ride/issues/2#issue-1783139219 "Optional title")
+
+
 # Bibliotecas Utilizadas
 
 - [Pandas](https://pandas.pydata.org/)
