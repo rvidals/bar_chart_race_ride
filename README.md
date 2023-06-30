@@ -1,4 +1,4 @@
-# Corridad e gráfico de barras do crescimento populacional da RIDE e do Distrito Federal
+# Corrida gráfico de barras do crescimento populacional da RIDE e do Distrito Federal
 Na apresentação em que o IBGE divulgou os dados preliminares do censo de 2022, foi mostrado um [gráfico](https://www.youtube.com/live/7ij6MwAqsl0?feature=share&t=9535) bem interessante que chagou atenção.
 Esse gráfico mostrava de forma animada o crescimento populacional dos municípios mais populonos do Brasil desde 1872 até 2022, histórico dos censos realizados pelo
 Instituto Brasileiro de Geografia e Estatistica (IBGE) até hoje.
